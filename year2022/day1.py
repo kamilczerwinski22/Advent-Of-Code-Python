@@ -1,5 +1,3 @@
-from typing import List, Any
-
 from InputReader import read_fixed_input
 from itertools import groupby
 from heapq import nlargest
